@@ -1,5 +1,8 @@
 ### application.bat - 2020 - BEUVANT Kevin###
 
-echo "version 1.1"
-echo "Copyright company - 2020"
-echo "Build: 10:00"
+version="2"
+build_hour="11:00"
+
+
+echo "version ${version}"
+echo "Build ${build_hour}"
